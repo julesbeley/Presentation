@@ -1,7 +1,7 @@
 ---
 title: "L'open source"
 author: "Jules Beley"
-date: "3 Février 2019"
+date: "3 FÃ©vrier 2019"
 output: 
   beamer_presentation:
       theme: "Berkeley"
@@ -11,6 +11,7 @@ output:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
 
 # Introduction
+
 ## Qui parmi vous utilise des logiciels open-source ?
 
 >- R
@@ -18,11 +19,11 @@ output:
 >- LaTeX
 >- VLC
 
-# Définitions
+# DÃ©finitions
 ## Open-source
 ## Logiciel libre
 ## Licence
 # Un age d'or... ?
-# ...Suivi d'un déclin ?
+# ...Suivi d'un d?clin ?
 # Bibliographie
-## Ouvrages et lien vers mon code
+## Ouvrages et lien vers mon code de schlag
