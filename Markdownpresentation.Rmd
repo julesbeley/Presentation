@@ -1,14 +1,14 @@
 ---
-title: "L'open source"
+title: "Logiciel libre et open-source"
 author: "Jules Beley"
 date: "3 Février 2019"
 output: 
   beamer_presentation:
       theme: "Berkeley"
-      colortheme: "dolphin"
+      colortheme: "crane"
       fonttheme: "structurebold"
 ---
-![Logo de la licence GPL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
+![Logo de la licence GNU GPL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
 
 # Introduction
 
@@ -21,15 +21,17 @@ output:
 >- Linux
 
 # Définitions
-## Open-source
 ## Logiciel libre
-## Licence
+## Open-source
+## Licences
+## Copyleft
 # Les arguments pour
 # Les arguments contre
 # Un age d'or... ?
 # ...Suivi d'un déclin ?
+# Conclusion
 # Bibliographie
-## Ouvrages et lien vers mon code
+## Ouvrages et lien vers mon code assorti d'une licence GPL
 - Söderberg, J. (2008). Hacking Capitalism. The Free and Open Source Software Movement, New York: Routledge. 
 - Weber, S. (2004). The Success of Open Source. Cambridge, MA: Harvard University Press.
 - Deek, F. P. and McHugh, J. A. (2008). Open Source. Technology and Policy, Cambridge: Cambridge University Press.
