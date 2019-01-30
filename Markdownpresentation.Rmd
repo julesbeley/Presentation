@@ -1,0 +1,28 @@
+---
+title: "L'open source"
+author: "Jules Beley"
+date: "3 Février 2019"
+output: 
+  beamer_presentation:
+      theme: "Berkeley"
+      colortheme: "dolphin"
+      fonttheme: "structurebold"
+---
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
+
+# Introduction
+## Qui parmi vous utilise des logiciels open-source ?
+
+>- R
+>- OpenOffice
+>- LaTeX
+>- VLC
+
+# Définitions
+## Open-source
+## Logiciel libre
+## Licence
+# Un age d'or... ?
+# ...Suivi d'un déclin ?
+# Bibliographie
+## Ouvrages et lien vers mon code
