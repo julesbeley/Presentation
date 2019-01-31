@@ -40,7 +40,7 @@ output:
 
 ## Open-source
 
-- Terme est développé Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
+- Terme développé Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
 \
 - Une forme de démocratisation liée au développement d'internet   
 \
@@ -60,17 +60,31 @@ output:
 
 ***
 
-![Le dépôt Linux sur Github](./Linux.png)
+![Un extrait du dépôt Linux sur Github](./Linux.png)
 
 # Un age d'or... ?
 
 ## D'abord, une question...
 ### À votre avis, les premiers logiciels étaient-ils propriétaires ou libres ?
 
-## Les débuts à MIT (I)
+## Les débuts à MIT
 ![Richard Stallman jeune](./Stallman.jpg)
 
-## Les débuts à MIT (II)
+***
+## Les débuts à MIT
+
+- MIT Artificial Intelligence Lab - PDP-11 (Stallman 2002: 17)      
+\
+- VAX/68020 : départ de Stallman    
+\
+- 1983: début du projet GNU (Gnu's not Unix)    
+\
+- 1985: Free Software Foundation
+
+## Internet comme catalyseur: GNU, GNU/Linux et les browsers
+
+![L'email de Linus Torvalds en 1991](https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png)
+
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 # ...Suivi d'un déclin ?
 ***
