@@ -66,6 +66,9 @@ output:
 ## Les débuts à MIT
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 # ...Suivi d'un déclin ?
+***
+![Popularité du mot clé "open source"](./Trends.png)
+
 # Conclusion
 # Bibliographie
 ## Ouvrages et lien vers mon code
