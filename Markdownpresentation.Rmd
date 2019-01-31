@@ -63,7 +63,14 @@ output:
 ![Le dépôt Linux sur Github](./Linux.png)
 
 # Un age d'or... ?
-## Les débuts à MIT
+
+## D'abord, une question...
+### À votre avis, les premiers logiciels étaient-ils propriétaires ou libres ?
+
+## Les débuts à MIT (I)
+![Richard Stallman jeune](./Stallman.jpg)
+
+## Les débuts à MIT (II)
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 # ...Suivi d'un déclin ?
 ***
