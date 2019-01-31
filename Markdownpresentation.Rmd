@@ -14,25 +14,29 @@ output:
 
 ## Qui parmi vous utilise des logiciels open-source ?
 
+>- Firefox
 >- R
 >- OpenOffice 
+>- VLC 
+>- GIMP
 >- LaTeX
->- VLC
 >- Linux
 
 # Définitions
 ## Logiciel libre
 ## Open-source
-## Licences
 ## Copyleft
 # Les arguments pour
 # Les arguments contre
 # Un age d'or... ?
+## Les débuts : Richard Stallman et GNU
+## Internet comme catalyseur: GNU/Linux et les browsers
 # ...Suivi d'un déclin ?
 # Conclusion
 # Bibliographie
-## Ouvrages et lien vers mon code assorti d'une licence GPL
+## Ouvrages et lien vers mon code
 - Söderberg, J. (2008). Hacking Capitalism. The Free and Open Source Software Movement, New York: Routledge. 
 - Weber, S. (2004). The Success of Open Source. Cambridge, MA: Harvard University Press.
 - Deek, F. P. and McHugh, J. A. (2008). Open Source. Technology and Policy, Cambridge: Cambridge University Press.
 - Gay, J. (2002). Free Software Free Society. Selected essays of Richard M. Stallman, Boston: GNU Press.
+- \textcolor{blue}{\underline{https://github.com/julesbeley/Presentation}}
