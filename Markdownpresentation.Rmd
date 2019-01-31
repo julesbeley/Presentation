@@ -16,7 +16,7 @@ output:
 
 - Firefox
 - R
-- OpenOffice 
+- OpenOffice / LibreOffice
 - VLC 
 - GIMP
 - \LaTeX    
@@ -62,7 +62,7 @@ output:
 
 ![Un extrait du dépôt Linux sur Github](./Linux.png)
 
-# Un age d'or... ?
+# Un âge d'or... ?
 
 ## D'abord, une question...
 ### À votre avis, les premiers logiciels étaient-ils propriétaires ou libres ?
@@ -73,11 +73,11 @@ output:
 ***
 ## Les débuts à MIT
 
-- MIT Artificial Intelligence Lab - PDP-11 (Stallman 2002: 17)      
+- MIT AI Lab - PDP-11 (Stallman 2002: 17)      
 \
 - VAX/68020 : départ de Stallman    
 \
-- 1983: début du projet GNU (Gnu's not Unix)    
+- 1983: début du projet GNU (Gnu's Not Unix) et protocole TCP-IP devient une norme    
 \
 - 1985: Free Software Foundation
 
@@ -86,6 +86,16 @@ output:
 ![L'email de Linus Torvalds en 1991](https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png)
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
+
+- Manque d'ergonomie au début   
+\
+- L'email et le protocole de transfert de ficher (FTP) facilite les échanges (Deek et McHugh 2008: 119)  
+\
+- 1992: GNU/Linux, premier système d’exploitation entièrement libre   
+\
+- Dans la foulée, les premiers browsers: Mosaic, Netscape, Firefox (Deek et McHugh 2008: 37-48)
+
+
 # ...Suivi d'un déclin ?
 ***
 ![Popularité du mot clé "open source"](./Trends.png)
@@ -93,8 +103,8 @@ output:
 # Conclusion
 # Bibliographie
 ## Ouvrages et lien vers mon code
-- Söderberg, J. (2008). Hacking Capitalism. The Free and Open Source Software Movement, New York: Routledge. 
-- Weber, S. (2004). The Success of Open Source. Cambridge, MA: Harvard University Press.
-- Deek, F. P. and McHugh, J. A. (2008). Open Source. Technology and Policy, Cambridge: Cambridge University Press.
-- Gay, J. (2002). Free Software Free Society. Selected essays of Richard M. Stallman, Boston: GNU Press.
+- Söderberg, J. (2008). \textit{Hacking Capitalism. The Free and Open Source Software Movement}. New York: Routledge. 
+- Weber, S. (2004). \textit{The Success of Open Source}. Cambridge, MA: Harvard University Press.
+- Deek, F. P. and McHugh, J. A. (2008). \textit{Open Source. Technology and Policy}. Cambridge: Cambridge University Press.
+- Gay, J. (2002). \textit{Free Software Free Society. Selected essays of Richard M. Stallman}. Boston: GNU Press.
 - <https://github.com/julesbeley/Presentation>
