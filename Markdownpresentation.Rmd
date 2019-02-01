@@ -33,7 +33,7 @@ output:
 
 - 1983: lancement officiel de GNU   
 \
-- Richard Stallman (1953-)   
+- Richard Stallman (1953- )   
 \
 
 ### Les quatre libertés (Stallman 2002: 43)
@@ -67,9 +67,6 @@ output:
 ![Un extrait du dépôt Linux sur Github](./Linux.png)
 
 # Un âge d'or... ?
-
-## D'abord, une question...
-### À votre avis, les premiers logiciels étaient-ils propriétaires ou libres ?
 
 ## Les débuts à MIT
 ![Richard Stallman jeune](./Stallman.jpg)
