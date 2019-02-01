@@ -22,7 +22,11 @@ output:
 - \LaTeX    
 \
 - Linux (GNU/Linux)
-- Git/Github
+- Git/Github  
+
+## Problématique
+
+### Le logiciel libre et/ou open-source est-il encore d'actualité aujourd'hui ?
 
 # Définitions
 ## Logiciel libre
@@ -108,7 +112,7 @@ output:
 
 ## En réalité
 
-- Banalisation dans les usages personnels et commercials       
+- Banalisation dans les usages personnels et commerciaux       
 \
 - Licences sur Github mais aussi dans les entreprises (Nevo et Chengalur-Smith 2017)
 
