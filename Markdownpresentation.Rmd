@@ -118,8 +118,15 @@ output:
 
 # Bibliographie
 ## Ouvrages et lien vers mon code
+
 - Deek, F. P. and McHugh, J. A. (2008). \textit{Open Source. Technology and Policy}. Cambridge: Cambridge University Press.
 - Gay, J., ed. (2002). \textit{Free Software Free Society. Selected essays of Richard M. Stallman}. Boston: GNU Press.
 - Nevo, S. and Chengalur-Smith, I. (2017). ‘Examining organizations’ continued use of open source technologies’. \textit{Information Technology and People}, vol. 30, no. 1, pp 24-46.
 - Söderberg, J. (2008). \textit{Hacking Capitalism. The Free and Open Source Software Movement}. New York: Routledge.
 - \textcolor{blue}{https://github.com/julesbeley/Presentation}
+
+## Article récent du \textit{Monde} sur VLC
+
+[Lien](https://www.lemonde.fr/pixels/article/2019/01/28/l-irresistible-ascension-du-lecteur-video-vlc-une-revolution-francaise_5415762_4408996.html)
+
+![L'article du \textit{Monde}](./VLC.png)
