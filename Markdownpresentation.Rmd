@@ -1,7 +1,7 @@
 ---
 title: "Logiciel libre et open-source"
 author: "Jules Beley"
-date: "3 FÃ©vrier 2019"
+date: "3 Février 2019"
 output: 
   beamer_presentation:
       theme: "Berkeley"
@@ -24,7 +24,7 @@ output:
 - Linux (GNU/Linux)
 - Git/Github
 
-# DÃ©finitions
+# Définitions
 ## Logiciel libre
 
 - 1983: lancement officiel de GNU   
@@ -32,27 +32,27 @@ output:
 - Richard Stallman (1953-)   
 \
 
-### Les quatre libertÃ©s (Stallman 2002: 43)
-- 0: libertÃ© dâ€™utiliser le logiciel Ã  nâ€™importe quelle fin
-- 1: libertÃ© dâ€™Ã©tudier le logiciel et de lâ€™adapter Ã  ses besoins
-- 2: libertÃ© de redistribuer le logiciel
-- 3: libertÃ© dâ€™amÃ©liorer le logiciel et de partager les amÃ©liorations
+### Les quatre libertés (Stallman 2002: 43)
+- 0: liberté d'utiliser le logiciel à n'importe quelle fin
+- 1: liberté d'étudier le logiciel et de l'adapter à ses besoins
+- 2: liberté de redistribuer le logiciel
+- 3: liberté d'améliorer le logiciel et de partager les améliorations
 
 ## Open-source
 
-- Terme dÃ©veloppÃ© Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
+- Terme développé Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
 \
-- Une forme de dÃ©mocratisation liÃ©e au dÃ©veloppement d'internet   
+- Une forme de démocratisation liée au développement d'internet   
 \
-- DÃ©finition de l'OSI basÃ©e sur 10 criteres (Deek et McHugh 2008:246)   
+- Définition de l'OSI basée sur 10 critères (Deek et McHugh 2008:246)   
 \
 - Critique de Richard Stallman (Gay 2002: 57-62)
 
 ## Copyleft et licences
 
-- RÃ©action au copyright (Stallman 2002: 91)   
+- Réaction au copyright (Stallman 2002: 91)   
 \
-- Toutes les versions amÃ©liorÃ©es ou modifiÃ©es du programme doivent Ãªtre libres Ã©galement (ibid.)    
+- Toutes les versions améliorées ou modifiées du programme doivent être libres également (ibid.)    
 \
 - Licence GNU GPL   
 \
@@ -60,18 +60,18 @@ output:
 
 ***
 
-![Un extrait du dÃ©pÃ´t Linux sur Github](./Linux.png)
+![Un extrait du dépôt Linux sur Github](./Linux.png)
 
-# Un Ã¢ge d'or... ?
+# Un âge d'or... ?
 
 ## D'abord, une question...
-### Ã€ votre avis, les premiers logiciels Ã©taient-ils propriÃ©taires ou libres ?
+### À votre avis, les premiers logiciels étaient-ils propriétaires ou libres ?
 
-## Les dÃ©buts Ã  MIT
+## Les débuts à MIT
 ![Richard Stallman jeune](./Stallman.jpg)
 
 ***
-## Les dÃ©buts Ã  MIT
+## Les dÃ©buts à MIT
 
 - MIT AI Lab - PDP-11 (Stallman 2002: 17)      
 \
@@ -91,14 +91,14 @@ output:
 \
 - L'email et le protocole de transfert de ficher (FTP) facilite les Ã©changes (Deek et McHugh 2008: 119)  
 \
-- 1992: GNU/Linux, premier systÃ¨me dâ€™exploitation entiÃ¨rement libre   
+- 1992: GNU/Linux, premier systeme d'exploitation entiÃ¨rement libre   
 \
 - Dans la foulÃ©e, les premiers browsers: Mosaic, Netscape, Firefox (Deek et McHugh 2008: 37-48)
 
 
 # ...Suivi d'un dÃ©clin ?
 ***
-![PopularitÃ© du mot clÃ© "open source"](./Trends.png)
+![Popularité du mot clÃ© "open source"](./Trends.png)
 
 # Conclusion
 # Bibliographie
