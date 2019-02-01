@@ -71,13 +71,13 @@ output:
 ![Richard Stallman jeune](./Stallman.jpg)
 
 ***
-## Les dÃ©buts à MIT
+## Les débuts à MIT
 
 - MIT AI Lab - PDP-11 (Stallman 2002: 17)      
 \
-- VAX/68020 : dÃ©part de Stallman    
+- VAX/68020 : départ de Stallman    
 \
-- 1983: dÃ©but du projet GNU (Gnu's Not Unix) et protocole TCP-IP devient une norme    
+- 1983: début du projet GNU (Gnu's Not Unix) et protocole TCP-IP devient une norme    
 \
 - 1985: Free Software Foundation
 
@@ -87,24 +87,35 @@ output:
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 
-- Manque d'ergonomie au dÃ©but   
+- Manque d'ergonomie au début   
 \
-- L'email et le protocole de transfert de ficher (FTP) facilite les Ã©changes (Deek et McHugh 2008: 119)  
+- L'email et le protocole de transfert de ficher (FTP) facilite les échanges (Deek et McHugh 2008: 119)  
 \
-- 1992: GNU/Linux, premier systeme d'exploitation entiÃ¨rement libre   
+- 1992: GNU/Linux, premier système d'exploitation entièrement libre   
 \
-- Dans la foulÃ©e, les premiers browsers: Mosaic, Netscape, Firefox (Deek et McHugh 2008: 37-48)
+- Dans la foulée, les premiers browsers: Mosaic, Netscape, Firefox (Deek et McHugh 2008: 37-48)
 
 
-# ...Suivi d'un dÃ©clin ?
+# ...Suivi d'un déclin ?
+
 ***
-![Popularité du mot clÃ© "open source"](./Trends.png)
 
-# Conclusion
+## Un déclin apparent
+![Popularité du mot clé "open source"](./Trends.png)
+
+## Mais trompeur
+![Sys. d'exploitation des 500 superordinateurs les plus puissants](./Super.png)
+
+## En réalité
+
+- Banalisation dans les usages personnels et commercials       
+\
+- Licences sur Github mais aussi dans les entreprises (Nevo et Chengalur-Smith 2017)
+
 # Bibliographie
 ## Ouvrages et lien vers mon code
-- SÃ¶derberg, J. (2008). \textit{Hacking Capitalism. The Free and Open Source Software Movement}. New York: Routledge. 
-- Weber, S. (2004). \textit{The Success of Open Source}. Cambridge, MA: Harvard University Press.
 - Deek, F. P. and McHugh, J. A. (2008). \textit{Open Source. Technology and Policy}. Cambridge: Cambridge University Press.
-- Gay, J. (2002). \textit{Free Software Free Society. Selected essays of Richard M. Stallman}. Boston: GNU Press.
-- <https://github.com/julesbeley/Presentation>
+- Gay, J., ed. (2002). \textit{Free Software Free Society. Selected essays of Richard M. Stallman}. Boston: GNU Press.
+- Nevo, S. and Chengalur-Smith, I. (2017). ‘Examining organizations’ continued use of open source technologies’. \textit{Information Technology and People}, vol. 30, no. 1, pp 24-46.
+- Söderberg, J. (2008). \textit{Hacking Capitalism. The Free and Open Source Software Movement}. New York: Routledge.
+- \textcolor{blue}{https://github.com/julesbeley/Presentation}
