@@ -68,7 +68,7 @@ include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv
 
 ---
 
-```{r, out.width="700px", fig.align = "center", echo = FALSE}
+```{r, out.width="800px", fig.align = "center", echo = FALSE}
 include_graphics("./Linux.png")
 ```
 
