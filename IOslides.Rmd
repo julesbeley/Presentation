@@ -11,7 +11,7 @@ output:
 ## Qui parmi vous utilise des logiciels open-source ou libres ?
 
 - Firefox
-- R
+- R / RStudio
 - OpenOffice / LibreOffice
 - VLC 
 - GIMP
