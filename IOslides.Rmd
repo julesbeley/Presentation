@@ -6,13 +6,6 @@ output:
    ioslides_presentation
 ---
 
----
-
-```{r, out.width="750px", fig.align = "center", echo = FALSE}
-library(knitr)
-include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png")
-```
-
 # Introduction
 
 ## Qui parmi vous utilise des logiciels open-source ou libres ?
@@ -41,17 +34,18 @@ include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv
 \
 
 ```{r, out.width="200px", fig.align = "center", echo = FALSE}
+library(knitr)
 include_graphics("./Stallman2.jpg")
 ```
 
 ## Les quatre libertés (Stallman 2002: 43)
 
 - liberté d'utiliser le logiciel à n'importe quelle fin    
-/
+\
 - liberté d'étudier le logiciel et de l'adapter à ses besoins    
-/
+\
 - liberté de redistribuer le logiciel    
-/
+\
 - liberté d'améliorer le logiciel et de partager les améliorations
 
 ## Open-source
@@ -78,6 +72,10 @@ include_graphics("./open.png")
 \
 - Exemple de **X Window System** (Stallman 2002: 22)
 
+```{r, out.width="300px", fig.align = "center", echo = FALSE}
+include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png")
+```
+
 ---
 
 ```{r, out.width="800px", fig.align = "center", echo = FALSE}
@@ -101,6 +99,10 @@ include_graphics("./Stallman.jpg")
 - 1983: début du projet **GNU** (Gnu's Not Unix) et protocole TCP-IP devient une norme    
 \
 - 1985: **Free Software Foundation**
+
+```{r, out.width="250px", fig.align = "center", echo = FALSE}
+include_graphics("./NBA.jpg")
+```
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 
@@ -148,17 +150,7 @@ include_graphics("./Super.png")
 - Söderberg, J. (2008). *Hacking Capitalism. The Free and Open Source Software Movement*. New York: Routledge.
 - https://github.com/julesbeley/Presentation
 
-## Illustrations
-
-- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png
-
-- https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png 
-
-- https://upload.wikimedia.org/wikipedia/commons/3/30/Operating_systems_used_on_top_500_supercomputers_de.svg
-
-- https://steemitimages.com/p/368La1qZAv72bxJGnETG1PXbY7SfpAgErEjmGQaJ29KQT624j5XKwc1JS2gFZPuN19cpuyfCGwN43pTtJDtvpEM4?format=match&mode=fit&width=640
-
-## Article récent du Monde sur VLC
+## Article récent du *Monde* sur VLC
 
 ```{r, out.width="700px", fig.align = "center", echo = FALSE}
 include_graphics("./VLC.png")
