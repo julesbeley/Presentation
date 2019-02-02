@@ -1,15 +1,17 @@
 ---
 title: "Open-source et logiciel libre"
 author: "Jules Beley"
-date: "February 2, 2019"
+date: "2 Février 2019"
 output: 
-   ioslides_presentation:
-     widescreen: true
+   ioslides_presentation
 ---
 
 ---
 
-![Logo de la licence GNU GPL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
+```{r, out.width="600px", fig.align = "center", echo = FALSE}
+library(knitr)
+include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png")
+```
 
 # Introduction
 
@@ -21,7 +23,7 @@ output:
 - VLC 
 - GIMP
 - \LaTeX    
-\
+
 - Linux (GNU/Linux)
 - Git/Github  
 
@@ -66,12 +68,17 @@ output:
 
 ---
 
-![Un extrait du dépôt Linux sur Github](./Linux.png)
+```{r, out.width="700px", fig.align = "center", echo = FALSE}
+include_graphics("./Linux.png")
+```
 
 # Un âge d'or... ?
 
 ## Les débuts à MIT
-![Richard Stallman jeune](./Stallman.jpg)
+
+```{r, out.width="700px", fig.align = "center", echo = FALSE}
+include_graphics("./Stallman.jpg")
+```
 
 ## Les débuts à MIT
 
@@ -85,7 +92,9 @@ output:
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 
-![L'email de Linus Torvalds en 1991](https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png)
+```{r, out.width="500px", fig.align = "center", echo = FALSE}
+include_graphics("https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png")
+```
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 
@@ -100,10 +109,16 @@ output:
 # ...Suivi d'un déclin ?
 
 ## Un déclin apparent
-![Popularité du mot clé "open source"](./Trends.png)
+
+```{r, out.width="500px", fig.align = "center", echo = FALSE}
+include_graphics("./Trends.png")
+```
 
 ## Mais trompeur
-![Sys. d'exploitation des 500 superordinateurs les plus puissants](./Super.png)
+
+```{r, out.width="700px", fig.align = "center", echo = FALSE}
+include_graphics("./Super.png")
+```
 
 ## En réalité
 
@@ -115,14 +130,26 @@ output:
 
 ## Ouvrages et lien vers mon code
 
-- Deek, F. P. and McHugh, J. A. (2008). \textit{Open Source. Technology and Policy}. Cambridge: Cambridge University Press.
-- Gay, J., ed. (2002). \textit{Free Software Free Society. Selected essays of Richard M. Stallman}. Boston: GNU Press.
-- Nevo, S. and Chengalur-Smith, I. (2017). ‘Examining organizations’ continued use of open source technologies’. \textit{Information Technology and People}, vol. 30, no. 1, pp 24-46.
-- Söderberg, J. (2008). \textit{Hacking Capitalism. The Free and Open Source Software Movement}. New York: Routledge.
-- \textcolor{blue}{https://github.com/julesbeley/Presentation}
+- Deek, F. P. and McHugh, J. A. (2008). *Open Source. Technology and Policy*. Cambridge: Cambridge University Press.
+- Gay, J., ed. (2002). *Free Software Free Society. Selected essays of Richard M. Stallman*. Boston: GNU Press.
+- Nevo, S. and Chengalur-Smith, I. (2017). ‘Examining organizations’ continued use of open source technologies’. *Information Technology and People*, vol. 30, no. 1, pp 24-46.
+- Söderberg, J. (2008). *Hacking Capitalism. The Free and Open Source Software Movement*. New York: Routledge.
+- https://github.com/julesbeley/Presentation
 
-## Article récent du \textit{Monde} sur VLC
+## Illustrations
+
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png
+
+- https://pbs.twimg.com/media/CNTUaPxXAAAO69Q.png 
+
+- https://upload.wikimedia.org/wikipedia/commons/3/30/Operating_systems_used_on_top_500_supercomputers_de.svg
+
+- https://steemitimages.com/p/368La1qZAv72bxJGnETG1PXbY7SfpAgErEjmGQaJ29KQT624j5XKwc1JS2gFZPuN19cpuyfCGwN43pTtJDtvpEM4?format=match&mode=fit&width=640
+
+## Article récent du Monde sur VLC
+
+```{r, out.width="700px", fig.align = "center", echo = FALSE}
+include_graphics("./VLC.png")
+```
 
 [Lien](https://www.lemonde.fr/pixels/article/2019/01/28/l-irresistible-ascension-du-lecteur-video-vlc-une-revolution-francaise_5415762_4408996.html)
-
-![L'article du \textit{Monde}](./VLC.png)
