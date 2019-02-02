@@ -138,7 +138,9 @@ include_graphics("./Super.png")
 
 - Banalisation dans les usages personnels et commerciaux       
 \
-- Licences sur Github mais aussi dans les entreprises (Nevo et Chengalur-Smith 2017)
+- Licences sur Github mais aussi dans les entreprises (Nevo et Chengalur-Smith 2017)    
+\
+- Les pratiques numériques ont changé, mais les logiciels non-propriétaires sont plus actuels que jamais
 
 # Bibliographie
 
