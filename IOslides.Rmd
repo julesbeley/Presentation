@@ -8,7 +8,7 @@ output:
 
 ---
 
-```{r, out.width="600px", fig.align = "center", echo = FALSE}
+```{r, out.width="750px", fig.align = "center", echo = FALSE}
 library(knitr)
 include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png")
 ```
@@ -35,36 +35,48 @@ include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv
 
 ## Logiciel libre
 
-- 1983: lancement officiel de GNU   
+- 1983: lancement officiel de **GNU**   
 \
-- Richard Stallman (1953- )   
+- **Richard Stallman** (1953- )   
 \
 
-### Les quatre libertés (Stallman 2002: 43)
-- 0: liberté d'utiliser le logiciel à n'importe quelle fin
-- 1: liberté d'étudier le logiciel et de l'adapter à ses besoins
-- 2: liberté de redistribuer le logiciel
-- 3: liberté d'améliorer le logiciel et de partager les améliorations
+```{r, out.width="200px", fig.align = "center", echo = FALSE}
+include_graphics("./Stallman2.jpg")
+```
+
+## Les quatre libertés (Stallman 2002: 43)
+
+- liberté d'utiliser le logiciel à n'importe quelle fin    
+/
+- liberté d'étudier le logiciel et de l'adapter à ses besoins    
+/
+- liberté de redistribuer le logiciel    
+/
+- liberté d'améliorer le logiciel et de partager les améliorations
 
 ## Open-source
 
 - Terme développé Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
 \
-- Une forme de démocratisation liée au développement d'internet   
+- Un début de **démocratisation** liée au développement d'internet   
 \
-- Définition de l'OSI basée sur 10 critères (Deek et McHugh 2008:246)   
+- Définition de l'**OSI** basée sur 10 critères (Deek et McHugh 2008:246)   
 \
-- Critique de Richard Stallman (Gay 2002: 57-62)
+- Critique de Richard Stallman (2002: 57-62)
+
+```{r, out.width="130px", fig.align = "center", echo = FALSE}
+include_graphics("./open.png")
+```
 
 ## Copyleft et licences
 
 - Réaction au copyright (Stallman 2002: 91)   
 \
-- Toutes les versions améliorées ou modifiées du programme doivent être libres également (ibid.)    
+- Toutes les versions améliorées ou modifiées du programme **doivent être libres également** (ibid.)    
 \
-- Licence GNU GPL   
+- Licence **GNU GPL**   
 \
-- Exemple de X Window System (Stallman 2002: 22)
+- Exemple de **X Window System** (Stallman 2002: 22)
 
 ---
 
@@ -86,9 +98,9 @@ include_graphics("./Stallman.jpg")
 \
 - VAX/68020 : départ de Stallman    
 \
-- 1983: début du projet GNU (Gnu's Not Unix) et protocole TCP-IP devient une norme    
+- 1983: début du projet **GNU** (Gnu's Not Unix) et protocole TCP-IP devient une norme    
 \
-- 1985: Free Software Foundation
+- 1985: **Free Software Foundation**
 
 ## Internet comme catalyseur: GNU, GNU/Linux et les browsers
 
