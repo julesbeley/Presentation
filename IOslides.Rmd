@@ -50,7 +50,7 @@ include_graphics("./Stallman2.jpg")
 
 ## Open-source
 
-- Terme développé Bruce Perence et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
+- Terme développé Bruce Perens et Eric Raymond en 1998 (Deek et McHugh 2008:297)    
 \
 - Un début de **démocratisation** liée au développement d'internet   
 \
